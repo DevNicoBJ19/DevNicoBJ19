@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolás Bejarano</h1>
-<h3 align="center">I am a Systems Engineering student about to graduate with solid knowledge in software development, data analysis, and project management. I have skills in programming (Java, Python) and experience in designing and implementing databases. I am a creative problem solver and passionate about technology and innovation. I am an effective communicator, work well in teams, and contribute to achieving goals. I apply my knowledge and develop technological solutions to drive organizational growth.</h3>
+<h3 align="center">As a Systems Engineer specializing in Backend Development, I excel in building robust, scalable, and efficient server-side solutions. My expertise lies in Python, leveraging frameworks like Django to create dynamic web applications and RESTful APIs. With a strong foundation in data manipulation and analysis using libraries such as pandas and numpy, I transform raw data into actionable insights and develop data-driven functionalities.
+
+Proficient in SQL and database management, I design and optimize relational databases to ensure seamless integration and high performance. My backend solutions prioritize clean architecture, maintainability, and scalability, aligning with best practices in secure coding and data integrity. Whether it's automating workflows, managing large datasets, or creating custom backend systems, I deliver solutions that drive success and innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnicobj19&label=Profile%20views&color=0e75b6&style=flat" alt="devnicobj19" /> </p>
 
